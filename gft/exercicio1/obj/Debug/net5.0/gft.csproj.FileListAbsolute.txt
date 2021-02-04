@@ -1,0 +1,16 @@
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\bin\Debug\net5.0\gft.exe
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\bin\Debug\net5.0\gft.deps.json
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\bin\Debug\net5.0\gft.runtimeconfig.json
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\bin\Debug\net5.0\gft.runtimeconfig.dev.json
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\bin\Debug\net5.0\gft.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\bin\Debug\net5.0\ref\gft.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\bin\Debug\net5.0\gft.pdb
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.csprojAssemblyReference.cache
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.AssemblyInfoInputs.cache
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.AssemblyInfo.cs
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.csproj.CoreCompileInputs.cache
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\ref\gft.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.pdb
+C:\Users\joaos\OneDrive\Área de Trabalho\gft\obj\Debug\net5.0\gft.genruntimeconfig.cache
